@@ -3,7 +3,7 @@
 This is the GitHub repository containing the code for, "Reproducibility Matters: Improving NSQIP Research in (Plastic) Surgery." Files in this repository include code for reproducing three peer-reviewed plastic surgery articles using the National Surgical Quality Improvement Project (NSQIP) database. Throughout the analysis, commentary was added with methodological excerpts from the original articles followed by questions that arose in attempting to code the analysis for that section of the original methods.
 
 ### Abstract
-BACKGROUND
+BACKGROUND  
 Reproducibility is a key tenet of scientific study; however, attempts to reproduce published work are often unsuccessful. The National Surgical Quality Improvement Program (NSQIP) database tracks 30-day postoperative outcomes across >250 perioperative variables. This investigation replicates three plastic surgery studies, evaluating the impact of undisclosed methodological decisions on reproducibility.  
 
 STUDY DESIGN  
